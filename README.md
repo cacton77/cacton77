@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to Colin's Portfolio 👋
+
+Here you will find short descriptions and links to some of my projects.
 
 <!--
 **cacton77/cacton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
