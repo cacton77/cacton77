@@ -1,4 +1,4 @@
-### Welcome to Colin's Portfolio 👋
+### Welcome to My GitHub 👋
 
 Here you will find short descriptions and links to some of my projects.
 
