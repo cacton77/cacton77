@@ -26,7 +26,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 ## Simulation and Optimization
 
-### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms)
+### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms) :dizzy::chart_with_downwards_trend:
 
 > [Paper](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/ActonProject2.pdf)
 
@@ -36,7 +36,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > [Simulation Optimization Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/Script1.m)
 
-### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer)
+### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer) :stars::chart_with_downwards_trend:
 
 > [Paper](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/Project_3_Report.pdf)
 
