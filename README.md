@@ -12,7 +12,15 @@
 
 ### Basketball Shooting Robot
 
+>
+
+>
+
+>
+
 ### Model and Animation of music hall usb-1 turntable
+
+>
 
 ## Simulation and Optimization
 
