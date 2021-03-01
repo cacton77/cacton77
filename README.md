@@ -34,7 +34,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > [UAV Swarm Simulation Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/swarmSim2.m)
 
-> [Simulation Optimization Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/Script1.m)
+> [Genetic Algorithm Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/Script1.m)
 
 ### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer) :stars::chart_with_downwards_trend:
 
@@ -42,7 +42,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > [Robo Printer Simulation](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/roboPrinterSim.m)
 
-> [Simulation Optimization Code](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/script1.m)
+> [Genetic Algorithm Code](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/script1.m)
 
 <!--
 **cacton77/cacton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
