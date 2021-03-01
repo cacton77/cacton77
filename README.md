@@ -16,6 +16,8 @@
 
 ### Modeling and Simulation of Robotic 3D Printer
 
+![finalsim](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/1ElFieldOn.gif?raw=true)
+
 <!--
 **cacton77/cacton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
