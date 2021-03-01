@@ -30,7 +30,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > [Paper](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/ActonProject2.pdf)
 
-> [Simulation](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/FinalSim.gif)
+> [Simulation Video](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/FinalSim.gif)
 
 > [UAV Swarm Simulation Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/swarmSim2.m)
 
@@ -40,7 +40,9 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > [Paper](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/Project_3_Report.pdf)
 
-> [Robo Printer Simulation](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/roboPrinterSim.m)
+> [Simulation Video](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/1ElFieldOn.gif)
+
+> [Printer Simulation Code](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/roboPrinterSim.m)
 
 > [Genetic Algorithm Code](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/script1.m)
 
