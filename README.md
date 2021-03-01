@@ -2,17 +2,17 @@
 
 ## Mechatronics Design Projects
 
-# Autonomous Sailboat
+### Autonomous Sailboat
 
-# Basketball Shooting Robot
+### Basketball Shooting Robot
 
-# Model and Animation of music hall usb-1 turntable
+### Model and Animation of music hall usb-1 turntable
 
 ## Simulation and Optimization
 
-# Simulation and Optimization of UAV Swarms
+### Simulation and Optimization of UAV Swarms
 
-# Modeling and Simulation of 3D Printer
+### Modeling and Simulation of 3D Printer
 
 <!--
 **cacton77/cacton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
