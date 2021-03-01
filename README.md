@@ -12,15 +12,15 @@
 
 ### Basketball Shooting Robot
 
->
+> Placeholder
 
->
+> Placeholder
 
->
+> Placeholder
 
 ### Model and Animation of music hall usb-1 turntable
 
->
+> Placeholder
 
 ## Simulation and Optimization
 
