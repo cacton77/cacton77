@@ -2,7 +2,7 @@
 
 ## Mechatronics Design Projects
 
-### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat)
+### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat) :sailboat:
 
 Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat that could gracefully react to shifting winds and navigate between points. For my capstone mechatronics course I got the chance to lead a team of my peers in realizing this dream.
 
@@ -12,7 +12,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > ![Demo Day Video](https://www.youtube.com/watch?v=Hydo_2GYRXk&feature=youtu.be)
 
-### Basketball Shooting Robot
+### Basketball Shooting Robot :basketball::robot:
 
 > Placeholder
 
@@ -20,7 +20,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > Placeholder
 
-### Model and Animation of music hall usb-1 turntable
+### Model and Animation of music hall usb-1 turntable :cd:
 
 > Placeholder
 
