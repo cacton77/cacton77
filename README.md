@@ -4,9 +4,9 @@ Hi, my name is Colin! I am a recent graduate of UC Berkeley with a B.S. in Mecha
 
 I am looking to start my professional career in a collaborative environment where I can exercise my creativity, apply my technical knowledge, and develop new skills. I am most excited by bold projects that positively impact people. Environmental conservation has played an important role in my life as my initial inspiration for pursuing a career in engineering.
 
-My work experience has involved building virtual factory networks, applying lean manufacturing techniques to automation problems, and training a wide range of employees to operate new, technical tools. I have a humanistic approach to engineering and consider my writing, communication, and teamwork skills vital to my personal success as an engineer.
+My work experience has involved building virtual factory networks, applying lean manufacturing techniques to automation problems, and training a wide range of employees to operate new, technical tools. I have a humanistic approach to engineering and consider my communication, teamwork and leadership skills vital to my personal success as an engineer.
 
-At Berkeley, I rigorously explored many disciplines of Mechanical Engineering from robotics, controls, and mechatronics design to materials engineering, modeling, and simulation. I am talented at visualization, and have honed my mechanical design skills in PTC Creo (my favorite!), SolidWorks, and AutoCAD on projects like an Autonomous Sailboat, a Basketball-Shooting Robot, and a Record Player.
+At Berkeley, I rigorously explored many disciplines of Mechanical Engineering from robotics, controls and mechatronics design to materials engineering, modeling and simulation. I am talented at visualization and have honed my mechanical design skills in PTC Creo (my favorite!), SolidWorks and AutoCAD on projects like an Autonomous Sailboat, a Basketball-Shooting Robot, and a Record Player.
 
 <!--
 **cacton77/cacton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
