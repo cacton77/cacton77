@@ -2,7 +2,7 @@
 
 ## Mechatronics Design Projects
 
-### Autonomous Sailboat
+### [Autonomous Sailboat](https://github.com/cacton77)
 
 ![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
 
@@ -14,11 +14,11 @@
 
 ## Simulation and Optimization
 
-### Simulation and Optimization of UAV Swarms
+### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms)
 
 ![finalsim](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/FinalSim.gif?raw=true)
 
-### Modeling and Simulation of Robotic 3D Printer
+### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer)
 
 ![finalsim](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/1ElFieldOn.gif?raw=true)
 
