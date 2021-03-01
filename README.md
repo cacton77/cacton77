@@ -1,8 +1,8 @@
-### Hi, my name is Colin. Welcome to My GitHub Portfolio! 👋
+### Hi, my name is Colin. Welcome to My Engineering Portfolio!
 
 ## Mechatronics Design Projects
 
-### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat) :sailboat:
+### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat)
 
 Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat that could gracefully react to shifting winds and navigate between points. For my capstone mechatronics design course at Berkeley I got the chance to lead a team of my peers in realizing this dream.
 
@@ -12,7 +12,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > ![Demo Day Video](https://www.youtube.com/watch?v=Hydo_2GYRXk&feature=youtu.be)
 
-### Basketball Shooting Robot :basketball::robot:
+### Basketball Shooting Robot
 
 > Placeholder
 
@@ -20,13 +20,13 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > Placeholder
 
-### Model and Animation of music hall usb-1 turntable :cd:
+### Model and Animation of music hall usb-1 turntable
 
 > Placeholder
 
 ## Simulation and Optimization
 
-### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms) :dizzy::chart_with_downwards_trend:
+### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms)
 
 > [Paper](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/ActonProject2.pdf)
 
@@ -36,7 +36,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > [Genetic Algorithm Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/Script1.m)
 
-### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer) :stars::chart_with_downwards_trend:
+### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer)
 
 > [Paper](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/Project_3_Report.pdf)
 
