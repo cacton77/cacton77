@@ -4,6 +4,14 @@
 
 ### Autonomous Sailboat
 
+![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
+
+![](https://user-images.githubusercontent.com/52175303/109434473-67659f80-79ca-11eb-9ea6-5acf1c8c9d9a.png)
+
+![Anemometer](https://github.com/cacton77/Autonomous-Sailboat/blob/main/anemometer.stl)
+
+![](https://github.com/cacton77/Autonomous-Sailboat/blob/main/wvdrw-ass.png?raw=true)
+
 ### Basketball Shooting Robot
 
 ### Model and Animation of music hall usb-1 turntable
