@@ -2,7 +2,7 @@
 
 ## Mechatronics Design Projects
 
-### [Autonomous Sailboat](https://github.com/cacton77)
+### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat)
 
 > ![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
 
