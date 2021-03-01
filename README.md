@@ -4,9 +4,9 @@
 
 ### [Autonomous Sailboat](https://github.com/cacton77)
 
-![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
+> ![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
 
-![Anemometer](https://github.com/cacton77/Autonomous-Sailboat/blob/main/anemometer.stl)
+> ![Anemometer](https://github.com/cacton77/Autonomous-Sailboat/blob/main/anemometer.stl)
 
 ### Basketball Shooting Robot
 
