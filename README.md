@@ -12,6 +12,8 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > ![Demo Day Video](https://www.youtube.com/watch?v=Hydo_2GYRXk&feature=youtu.be)
 
+> ![Arduino Code](https://github.com/cacton77/Autonomous-Sailboat/blob/main/Full_Sail/Full_Sail.ino)
+
 ### Basketball Shooting Robot
 
 > Placeholder
