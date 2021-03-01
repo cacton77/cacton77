@@ -8,6 +8,8 @@
 
 > ![Anemometer](https://github.com/cacton77/Autonomous-Sailboat/blob/main/anemometer.stl)
 
+> ![Demo Day Video](https://www.youtube.com/watch?v=Hydo_2GYRXk&feature=youtu.be)
+
 ### Basketball Shooting Robot
 
 ### Model and Animation of music hall usb-1 turntable
@@ -16,11 +18,21 @@
 
 ### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms)
 
-![finalsim](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/FinalSim.gif?raw=true)
+> [Paper](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/ActonProject2.pdf)
+
+> [Simulation](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/FinalSim.gif)
+
+> [UAV Swarm Simulation Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/swarmSim2.m)
+
+> [Simulation Optimization Code](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms/blob/main/Script1.m)
 
 ### [Modeling and Simulation of Robotic 3D Printer](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer)
 
-![finalsim](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/1ElFieldOn.gif?raw=true)
+> [Paper](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/Project_3_Report.pdf)
+
+> [Robo Printer Simulation](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/roboPrinterSim.m)
+
+> [Simulation Optimization Code](https://github.com/cacton77/Modeling-and-Simulation-of-Robotic-3D-Printer/blob/main/script1.m)
 
 <!--
 **cacton77/cacton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
