@@ -16,7 +16,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 ### ![Basketball Shooting Robot](https://github.com/cacton77/Basketball-Shooting-Robot)
 
-This final project for an upper-division mechanical design course tasked us with designing and building a microprocessor-based robot, implementing real-time programming and multitasking in our code, and controlling the robot with a LabView VI.
+This final project for an upper-division mechanical design course tasked us with designing and building a microprocessor-based robot, implementing real-time programming and multitasking in our code and controlling the robot with a LabView VI. Our basketball shooting robot was able to autonomously detect and shoot a ball into a full-size hoop. I implemented a hoop detection and trajectory calculation system using a LiDAR sensor and PSoC 5LP.
 
 > ![State Transition Diagram](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/StateTransitionDiagram.pdf)
 
