@@ -14,7 +14,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > ![Arduino Code](https://github.com/cacton77/Autonomous-Sailboat/blob/main/Full_Sail/Full_Sail.ino)
 
-### Basketball Shooting Robot
+### ![Basketball Shooting Robot](https://github.com/cacton77/Basketball-Shooting-Robot)
 
 >
 
