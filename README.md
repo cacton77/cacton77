@@ -46,7 +46,7 @@ I learned a lot from this project:
 
 ### Model and Animation of music hall usb-1 Turntable
 
-The goal of this project was to model every part in a complicated assembly and animate the assembly and functionality of the system and subsystems. Currently the file for our final animation is missing, but we have a clip of the exploded view.
+The goal of this project was to model every part in a complicated assembly using PTC Creo and animate the assembly and functionality of the system and subsystems using 3ds MAX. Currently the file for our final animation is missing, but we have a clip of the exploded view.
 
 > [Exploded View Animation](https://youtu.be/tV0QhufL92Y)
 
