@@ -46,7 +46,9 @@ I learned a lot from this project:
 
 ### Model and Animation of music hall usb-1 Turntable
 
-> Placeholder
+The goal of this project was to model every part in a complicated assembly and animate the assembly and functionality of the system and subsystems. Currently the file for our final animation is missing, but we have a clip of the exploded view.
+
+> [Exploded View Animation](https://youtu.be/tV0QhufL92Y)
 
 ## Simulation and Optimization
 
