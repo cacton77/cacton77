@@ -36,6 +36,10 @@ I learned a lot from this project:
 
 > ![Final Presentation](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/FinalPresentation.pdf)
 
+> ![Spinner Testing](https://youtu.be/g3NIpQnpwTU)
+
+> ![LiDAR Testing](https://youtu.be/31K-31oZflY)
+
 > ![State Transition Diagram](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/StateTransitionDiagram.pdf)
 
 > ![PSoC Code](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/PSoCCodeFinal.pdf)
