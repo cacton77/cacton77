@@ -1,4 +1,4 @@
-### Hi, my name is Colin. Welcome to My Engineering Portfolio!
+### Hi, my name is Colin. Welcome to my engineering portfolio!
 
 ## Mechatronics Design Projects
 
