@@ -16,11 +16,11 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 ### Basketball Shooting Robot
 
-> Placeholder
+>
 
-> Placeholder
+> ![State Transition Diagram](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/StateTransitionDiagram.pdf)
 
-> Placeholder
+> ![PSoC Code](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/PSoCCodeFinal.pdf)
 
 ### Model and Animation of music hall usb-1 turntable
 
