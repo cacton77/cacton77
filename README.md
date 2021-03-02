@@ -6,6 +6,13 @@
 
 Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat that could gracefully react to shifting winds and navigate between points without a crew. For my capstone mechatronics design course at Berkeley I got the chance to lead a team of my peers in realizing this dream.
 
+Things I learned from this project:
+
+* Designing custom systems and selecting parts according to load specifications
+* Designing and 3D Printing parts for a custom sensor
+* Integrating multiple sensors into a subsystem used for control of an airfoil
+* Communication between I2C and SPI devices and microprocessors
+
 > ![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
 
 > ![Anemometer](https://github.com/cacton77/Autonomous-Sailboat/blob/main/anemometer.stl)
@@ -16,7 +23,15 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 ### ![Basketball Shooting Robot](https://github.com/cacton77/Basketball-Shooting-Robot)
 
-This final project for an upper-division mechanical design course tasked us with designing and building a microprocessor-based robot, implementing real-time programming and multitasking in our code and controlling the robot with a LabView VI. Our basketball shooting robot was able to autonomously detect and shoot a ball into a full-size hoop. I implemented a hoop detection and trajectory calculation system using a LiDAR sensor and PSoC 5LP.
+This final project for an upper-division mechanical design course tasked us with designing and building a microprocessor-based robot, implementing real-time programming and multitasking in our code and controlling the robot with a LabView VI. Our basketball shooting robot was able to autonomously detect and shoot a ball into a full-size hoop. I implemented our hoop detection and trajectory calculation system using a LiDAR sensor and PSoC 5LP.
+
+I learned a lot from this project:
+
+* Designing finite-state machines and creating state transition diagrams
+* Real-time programming using interrupts
+* Multitasking to perform multiple functions "at the same time."
+* Receiving and transmitting data between UART devices and microprocessors
+* Using LiDAR to detect objects and record distances
 
 > ![State Transition Diagram](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/StateTransitionDiagram.pdf)
 
