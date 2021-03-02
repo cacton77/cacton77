@@ -22,7 +22,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 > ![PSoC Code](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/PSoCCodeFinal.pdf)
 
-### Model and Animation of music hall usb-1 turntable
+### Model and Animation of music hall usb-1 Turntable
 
 > Placeholder
 
