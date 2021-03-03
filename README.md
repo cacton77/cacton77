@@ -8,7 +8,7 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 Things I learned from this project:
 
-* Designing custom systems and selecting parts according to load specifications
+* Designing custom systems and selecting servos, bearings, and materials according to load specifications
 * Designing and 3D Printing parts for a custom sensor
 * Integrating multiple sensors into a subsystem used for control of an airfoil
 * Communication between I2C and SPI devices and microprocessors
