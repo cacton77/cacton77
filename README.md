@@ -2,7 +2,7 @@
 
 ## Mechatronics Design Projects
 
-### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat)
+### [Autonomous Sailboat](https://github.com/cacton77/Autonomous-Sailboat) :sailboat:
 
 Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat that could gracefully react to shifting winds and navigate between points without a crew. For my capstone mechatronics design course at Berkeley I got the chance to lead a team of my peers in realizing this dream.
 
@@ -21,7 +21,7 @@ Things I learned from this project:
 
 > ![Arduino Code](https://github.com/cacton77/Autonomous-Sailboat/blob/main/Full_Sail/Full_Sail.ino)
 
-### ![Basketball Shooting Robot](https://github.com/cacton77/Basketball-Shooting-Robot)
+### ![Basketball Shooting Robot](https://github.com/cacton77/Basketball-Shooting-Robot) :robot:
 
 This final project for an upper-division mechanical design course tasked us with designing and building a PSoC 5LP based device, implementing real-time programming and multitasking in our code and controlling the robot with a LabView VI. Our basketball shooting robot was able to autonomously detect and shoot a ball into a full-size hoop.
 
@@ -44,7 +44,7 @@ I learned a lot from this project:
 
 > ![PSoC Code](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/PSoCCodeFinal.pdf)
 
-### Model and Animation of music hall usb-1 Turntable
+### Model and Animation of music hall usb-1 Turntable :notes:
 
 The goal of this project was to model every part in a complicated assembly using PTC Creo and animate the assembly and functionality of the system and subsystems using 3ds MAX. Currently the file for our final animation is missing, but we have a clip of the exploded view.
 
