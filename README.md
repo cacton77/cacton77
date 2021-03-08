@@ -29,7 +29,7 @@ I learned a lot from this project:
 
 * Designing finite-state machines and creating state transition diagrams
 * Real-time programming using interrupts
-* Multitasking to perform multiple functions "at the same time."
+* Multitasking to perform multiple functions "at the same time"
 * Receiving and transmitting data between UART devices and microprocessors
 * Using LiDAR to detect objects and record distances
 * Experimentally determining optimum parameters for trajectory calculations
