@@ -52,7 +52,7 @@ The goal of this project was to model every part in a complicated assembly using
 
 ## Simulation and Optimization
 
-One of my favorite classes in my undergraduate career at Berkeley was Modeling and Simulation Tools for Industrial Research. This class required us to apply all of our knowledge accumulated from mechanics, fluid dynamics, thermodynamics, solid mechanics, E&M, etc. to create models in MATLAB of advanced real world problems. We applied Genetic Algorithms to these simulations to optimize design parameters according to desired behaviors. Here are a small selection of the projects I did and the reports I wrote in this class.
+One of my favorite classes in my undergraduate career at Berkeley was Modeling and Simulation Tools for Industrial Research. This class required us to apply all of our knowledge accumulated from mechanics, fluid dynamics, thermodynamics, solid mechanics, E&M, etc. to create models in MATLAB of advanced real world problems. We applied Genetic Algorithms to these simulations to optimize design parameters according to desired behaviors. Here is a small selection of the projects I did and the reports I wrote in this class.
 
 ### [Simulation and Optimization of UAV Swarms](https://github.com/cacton77/Modeling-and-Optimization-of-UAV-Swarms)
 
