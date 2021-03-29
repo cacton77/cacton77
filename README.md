@@ -8,10 +8,11 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 Things I learned from this project:
 
-* Designing custom systems and selecting servos, bearings, and materials according to load specifications
+* System architecture design based on power and mechanical load requirements
+* Selecting servos, bearings, and materials according to load specifications
 * Designing and 3D Printing parts for a custom sensor
 * Integrating multiple sensors into a subsystem used for control of an airfoil
-* Communication between I2C and SPI devices and microprocessors
+* Writing firmware for communication between I2C and SPI devices and microprocessors
 
 > ![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
 
@@ -28,11 +29,11 @@ This final project for an upper-division mechanical design course tasked us with
 I learned a lot from this project:
 
 * Designing finite-state machines and creating state transition diagrams
+* Creating map files to select and configure hardware components of a PSoC 5LP using register schematics and peripheral protocols
+* Writing and documenting code to collect and interpret UART LiDAR data packets, perform edge detection, and calculate a trajectory
 * Real-time programming using interrupts
-* Multitasking to perform multiple functions "at the same time"
-* Receiving and transmitting data between UART devices and microprocessors
-* Using LiDAR to detect objects and record distances
-* Experimentally determining optimum parameters for trajectory calculations
+* Using multitasking to read sensor data and control motors while receiving state transition commands from a LabVIEW GUI via USB
+
 
 > ![Final Presentation](https://github.com/cacton77/Basketball-Shooting-Robot/blob/main/FinalPresentation.pdf)
 
@@ -46,7 +47,7 @@ I learned a lot from this project:
 
 ### Model and Animation of music hall usb-1 Turntable :notes:
 
-The goal of this project was to model every part in a complicated assembly using PTC Creo and animate the assembly and functionality of the system and subsystems using 3ds MAX. Currently the file for our final video is missing, but I have a clip of the exploded view.
+In this project we modeled all 140+ parts of a turntable using PTC Creo and animated the assembly and functionality of the system and subsystems using 3ds MAX. Currently the file for our final video is missing, but I have a clip of the exploded view.
 
 > [Exploded View Animation](https://youtu.be/tV0QhufL92Y)
 
