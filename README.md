@@ -47,9 +47,11 @@ I learned a lot from this project:
 
 ### Model and Animation of music hall usb-1 Turntable :notes:
 
-In this project we modeled all 140+ parts of a turntable using PTC Creo and animated the assembly and functionality of the system and subsystems using 3ds MAX. Currently the file for our final video is missing, but I have a clip of the exploded view.
+In this project we modeled all 140+ parts of a turntable using PTC Creo and animated the assembly and functionality of the system and subsystems using 3ds MAX.
 
-> [Exploded View Animation](https://youtu.be/tV0QhufL92Y)
+> [Final Animation (SD)](https://drive.google.com/file/d/1xUca8Pr-QZImdt6e3P29BkiqrUQKMQFs/view?usp=sharing)
+
+> [Exploded View Animation (HD)](https://youtu.be/tV0QhufL92Y)
 
 ## Simulation and Optimization
 
