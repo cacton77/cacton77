@@ -49,9 +49,9 @@ I learned a lot from this project:
 
 In this project we modeled all 140+ parts of a turntable using PTC Creo and animated the assembly and functionality of the system and subsystems using 3ds MAX.
 
-> [Final Animation (SD)](https://drive.google.com/file/d/1xUca8Pr-QZImdt6e3P29BkiqrUQKMQFs/view?usp=sharing)
+> [Full Video](https://drive.google.com/file/d/1xUca8Pr-QZImdt6e3P29BkiqrUQKMQFs/view?usp=sharing)
 
-> [Exploded View Animation (HD)](https://youtu.be/tV0QhufL92Y)
+> [Exploded View Animation](https://youtu.be/tV0QhufL92Y)
 
 ## Simulation and Optimization
 
