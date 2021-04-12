@@ -6,7 +6,7 @@
 
 Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat that could gracefully react to shifting winds and navigate between points without a crew. For my capstone mechatronics design course at Berkeley I got the chance to lead a team of my peers in realizing this dream.
 
-Things I learned from this project:
+Skills I took away from this project:
 
 * System architecture design based on power and mechanical load requirements
 * Selecting servos, bearings, and materials according to load specifications
